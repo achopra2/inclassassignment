@@ -1,0 +1,14 @@
+/* Default light mode styles */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+    color: black;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+/* Dark mode styling (JavaScript) */
+.dark-mode {
+    background-color: black;
+    color: white;
+}
